@@ -36,6 +36,11 @@ Mexico, especially Mexico City, features graffiti that often addresses social an
 Lastly, South Africa, particularly Cape Town, has a burgeoning graffiti scene influenced by local culture and international styles. The city’s murals often reflect social and political themes. Graffiti is generally illegal, but enforcement is inconsistent, and there are legal spaces where artists can work freely.
 
 #
+### Copyright Mistake
+
+The problem with "Graffiti" described in the email involves a Digital Millennium Copyright Act (DMCA) notice. OpenAI received a DMCA complaint alleging that the content of the "Graffiti" custom GPT infringes upon someone's copyright. As a result, OpenAI disabled the ability to share this GPT publicly to comply with the takedown notice. The user, Alex Aldridge, believes this is a mistake or misidentification and has submitted a counter-notification asserting their legal right to use and share the content, claiming no copyright infringement occurred. They have also highlighted a potential issue with the provided contact email address for submitting counter-notifications, as it seems to be incorrect.
+
+#
 ### Related Links
 
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
